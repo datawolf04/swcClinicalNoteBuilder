@@ -1,0 +1,3 @@
+This is a clinical note builder that allows a mental health clinician to select some statements about a session. Using RShiny, it builds a clinical note one paragraph at a time.
+
+Paragraph 1 is focused on participants, location, and presentation. The file `paragraph1.md` has the base text with items to fill-in inside parentheses. The clinician will always report mood and affect, but may select other features to report from the list given in the `otherThing` list.

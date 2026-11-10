@@ -1,0 +1,1 @@
+I'm still working on `dynamicNote.R` and building the 2nd sentence. Now, when I select more than one additional presentation, the descripters on the "Additional Presentation" tab are not included if they weren't in the first additional presentation selected. Help me fix.

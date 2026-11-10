@@ -1,0 +1,55 @@
+type,option
+Appearance,Neat
+Appearance,Disheveled
+Appearance,Inappropriate
+Appearance,Bizarre
+Behavior,Appropriate
+Behavior,Aggressive
+Behavior,Agitated
+Behavior,Angry
+Behavior,Apathetic
+Behavior,Argumentative
+Behavior,Child-like
+Behavior,Cooperative
+Behavior,Demanding
+Behavior,Drastic
+Behavior,Evasive
+Behavior,Hostile
+Behavior,Irritable
+Behavior,Passive
+Behavior,Manipulative
+Behavior,Uncooperative
+Behavior,Withdrawn
+Speech,Soft
+Speech,Hesitant
+Speech,Mute
+Speech,Normal
+Speech,Pressured
+Speech,Slow
+Speech,Slurred
+Thought Process,Goal-directed
+Thought Process,Unremarkable
+Thought Process,Blocking
+Thought Process,Flight of Ideas
+Thought Process,Loose Associations
+Thought Process,Circumstantial
+Thought Process,Preservation
+Thought Process,Logical
+Thought Process,Coherent
+Thought Process,Tangential
+Thought Process,Disorganized
+Thought Content,Appropriate
+Thought Content,Preoccupied
+Thought Content,Normal
+Thought Content,Obsession
+Thought Content,Suicidal
+Thought Content,Delusion (Type: _______)
+Attention/Concentration,Good
+Attention/Concentration,Distractable
+Attention/Concentration,Variable
+Judgment,Excellent
+Judgment,Nil
+Judgment,Good
+Judgment,Fair
+Judgment,Poor
+Judgment,Bad
